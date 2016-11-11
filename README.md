@@ -1,4 +1,3 @@
-glossary.png?label=in%20progress&title=In%20progress)
 
 # iSAQB Software Architecture References
 
