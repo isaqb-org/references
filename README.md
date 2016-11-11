@@ -5,7 +5,7 @@ glossary.png?label=in%20progress&title=In%20progress)
 A curated (and somewhat commented) list of software architecture references,
 many of them used in the iSAQB foundation and advanced level curricula.
 
-![](./images/glossary-cover-small.jpg)
+![](./images/cover-isaqb-references-small.jpg)
 
 This repository contains the sources for the published version of
 the iSAQB references, available both online and in various eBook formats
@@ -20,7 +20,7 @@ the iSAQB and the software architecture community in general.
 ## Suggestions Welcome
 
 We welcome suggestions and critique of any kind: Just
-[open an issue](https://github.com/isaqb-org/glossary/issues)
+[open an issue](https://github.com/isaqb-org/references/issues)
 here on Github!
 
 ## Book Generation (aka "build")
