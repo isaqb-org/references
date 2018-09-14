@@ -1,14 +1,15 @@
 
 # iSAQB Software Architecture References
 
-THIS repo is deprecated - iSAQB references will be maintained within our (internal)
-subversion repo.
+This repository contains the annotated [iSAQB](https://isaqb.org) references,
+both for CPSA-Foundation level and CPSA-Advanced curriculae.
 
-Public version of the document will be available at iSAQB.org in the download/document section.
+It has been initiated by Dr. Gernot Starke and is maintained by volunteers
+of iSAQB.
 
-This move is due to the fact that Leanpub for several reasons couldn't be chosen as
-publishing platform for this content.
+Public version of the document will be available at iSAQB.org in the download/document section, AND at Leanpub.
 
+This document is and will always be free of charge. 
 
 ## License
 
