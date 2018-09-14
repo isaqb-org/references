@@ -1,5 +1,3 @@
-{pagebreak}
-
 {#section-references}
 # References and Resources
 
@@ -98,7 +96,8 @@ Gamma, Erich/Helm, Richard/Johnson, Ralph/Vlissides, John M.
 _Design Patterns: Elements of Reusable Object-Oriented Software,_
 1st edition, 1994, Addison-Wesley, 1994.
 
-A classic on design patterns.
+The classic book on design patterns, originally with C++ in mind.
+Several of these patterns can be applied independent of language and technology.
 
 {#ref-gof}
 ##### GoF (Gang of Four)
@@ -240,7 +239,8 @@ Wiley & Sons, 2000
 
 Bruce Schneier, Applied Cryptography, 2nd Edition 1996, John Wiley & Sons
 
-Comprehensive suervey of modern cryptography.
+Comprehensive survey of cryptography fundamentals.
+
 
 {#ref-shaw-1996}
 ##### Shaw+1996
@@ -249,11 +249,11 @@ Shaw, Mary/Garlan, David:
 _Software Architecture: Perspectives on an Emerging Discipline_,
 Prentice Hall, 1996
 
-{#ref-starke-2016a}
-##### Starke-2016
+{#ref-starke-esa-en}
+##### Starke-2018
 
 Starke, Gernot:
 _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Study Guide_
-Leanpub, 2016. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
+Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
 
-A study guide for the CPSA-Foundation examination, not a comprehensive textbook!
+A study guide for the CPSA-Foundation examination.

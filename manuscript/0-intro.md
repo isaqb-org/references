@@ -1,48 +1,15 @@
 # Introduction
 
-This book contains a glossary of _software architecture terminology_.
-
-It can serve as a reference for preparation for the iSAQB e.V.
- examination
-_Certified Professional for Software Architecture - Foundation Level_©.
-
-Please be aware: This glossary is **not** intended to be a primer or course book
-on software architecture, just a collection of definitions (and links to further information).
-
-Furthermore, you find proposals for [translations](#section-translations)
-of the iSAQB terminology,
-currently between English and German (and vice-versa).
-
-Finally this book contains numerous [references](#section-references) to books
-and other resources, many of which we quoted in the definitions.
+This book contains references for _software architecture_.
 
 **This book is work in progress.**
 
 Errors or omissions can also be reported in our issue tracker on
-[Github](https://github.com/isaqb-org/glossary/issues),
+[Github](https://github.com/isaqb-org/references/issues),
 where the authors maintain the original sources for this book.
 
 {pagebreak}
 
-## Terms Can Be Referenced
-
-All terms in the glossary have unique URLs to the (free) online version of the book,
-therefore they can be universally referenced, both from online- and print documentation.
-
-Our URL scheme is quite simple:
-
-* The base URL is `https://leanpub.com/isaqbglossary/read`
-* We just add the prefix `#term-` in front of
-the term to be referenced, then the term itself, with hyphens ("-") instead of blanks.
-
-  For example our description of the term _software architecture_ can be referenced (hyperlinked) with
-    `https://leanpub.com/isaqbglossary/read#term-software-architecture`
-
-Nearly all terms are hyperlinked with their full names, with very few examples that
-are referenced by their (common) abbreviations, like UML or DDD.
-
-
-{pagebreak}
 
 ## License
 

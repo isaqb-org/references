@@ -4,16 +4,16 @@
 This repository contains the annotated [iSAQB](https://isaqb.org) references,
 both for CPSA-Foundation level and CPSA-Advanced curriculae.
 
-![](./images/cover-references-small.jpg)
+![](./images/cover-isaqb-references-small.jpg)
 
 This repository contains the sources for the published version of
 the iSAQB references, available both online and in various eBook formats
 at [Leanpub (https://leanpub.com/isaqbreferences)](https://leanpub.com/isaqbreferences).
 
-It has been initiated by Dr. Gernot Starke and is maintained by volunteers
-of iSAQB (see the list of [contributors]()).
+In addition, a public version of the document will also be available at iSAQB.org in the download/document section.
 
-Public version of the document will be available at iSAQB.org in the download/document section, AND at Leanpub.
+This e-book has been initiated by Dr. Gernot Starke and is maintained by volunteers
+of iSAQB (see the list of [contributors](https://github.com/isaqb-org/references/graphs/contributors)).
 
 
 This document is and will always be free of charge.

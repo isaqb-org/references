@@ -1,43 +1,17 @@
-%% iSAQB Glossary of Software Architecture Terminology
+%% iSAQB References for Software Architecture
 %%
-%% Published on LeanPub (https://leanpub.com/isaqbglossary)
-%% ========================================================
+%% Published on LeanPub (https://leanpub.com/isaqbreferences)
+%% =========================================================
 
 {mainmatter}
 
-0_intro.md
+0-intro.md
 
-1-terms-A-C.md
-2-terms-D-L.md
-3-terms-M-Z.md
+10-references.md
 
-
-%% ==================================
-%% Translation tables
-
-42-translations-EN-DE.md
-%% include the generated translation table:
-generated-dont-edit/gen-tt-EN-DE.md
-
-43-translations-DE-EN.md
-%% include the generated translation table:
-generated-dont-edit/gen-tt-DE-EN.md
-
-%% ==================================
-%% Categories
-
-60-categories.md
-
-%% ==================================
-%% References to books and websites
-
-99-resources.md
-
-%% ==================================
 
 {backmatter}
 
 appendix/1-about-isaqb.md
 appendix/2-about-the-authors.md
-appendix/3-also-from-the-authors.md
-appendix/4-about-our-cause.md
+appendix/3-about-our-cause.md
