@@ -127,6 +127,17 @@ Hofmeister, Christine/Nord, Robert/Soni, Dilip:
 _Applied Software Architecture,_
 1st edition, Addison-Wesley, 1999
 
+{#ref-hofmeister+2007}
+##### Hofmeister+2007
+Christine Hofmeister, Philippe Kruchten, Robert L. Nord, Henk Obbink, Alexander Ran and Pierre America: _A general model of software architecture design derived
+from five industrial approaches_
+
+The Journal of Systems and Software 80 (2007) p. 106–126.
+
+A thorough comparison of various approaches to software architecture: The authors compare five industrial software architecture design methods and extract from their commonalities a general software architecture design approach. Using this general approach.
+
+Available [online](https://www.dimap.ufrn.br/~thais/MES20072/SoftwareArchitecturalGeneralModel.pdf)
+
 {#ref-hohpe+2003}
 ##### Hohpe+2003
 
