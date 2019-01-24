@@ -22,9 +22,9 @@ The following is only a brief summary and no substitution for the real license.
 
 The cc-4.0-by license means that you might:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-*    The licensor cannot revoke these freedoms as long as you follow the license terms.
+* Share: Copy and redistribute the material in any medium or format
+* Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
+* The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 You must:
 
@@ -40,9 +40,7 @@ You must:
 Several parts of this glossary have been contributed
 by the following volunteers and sponsors:
 
-* The definitions of about 120 terms have been donated by
-Gernot Starke, originally compiled for one of his
-[books](https://leanpub.com/esa42/).
+* Several references had initially been collected by the iSAQB Foundation Level Working Group.
 * A number of definitions in context of system improvement and evolution
 was contributed by the [aim42](http://aim42.github.io/) open source project.
 
@@ -55,9 +53,8 @@ A>
 A>In case find errors, omissions or typos, or want to contribute additional content -
 A>please feel free to do this via one of the following ways:
 A>
-A>1. Open an issue in our [Github repository](https://github.com/isaqb-org/glossary/issues)
+A>1. Open an issue in our [Github repository](https://github.com/isaqb-org/rferences/issues)
 A>2. Fork the repository and create a pull request.
-A>3. Discuss topics on the books' [Leanpub feedback page](https://leanpub.com/isaqbglossary/feedback)
-A>4. Write an email to the authors, also from the books' [website](https://leanpub.com/isaqbglossary/email_author/new)
+
 
 Your input is highly appreciated by the authors.
