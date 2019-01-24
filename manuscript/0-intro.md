@@ -11,6 +11,16 @@ where the authors maintain the original sources for this book.
 {pagebreak}
 
 
+## Personal Comments
+
+Several of the references have been commented in the following form:
+
+
+D> ###### Comment (Gernot Starke)
+D> In comments like this, one or several of the authors have given their personal opinion about books or articles. These comments might help you select stuff you want to read or skip. 
+D>
+
+
 ## License
 
 {float=inside,width=25%}
