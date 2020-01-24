@@ -13,6 +13,10 @@ One of the most comprehensive books about information security available.
 Bachmann, Felix/Bass, Len/Carriere, Jeromy/Clements, Paul/Garlan, David/Ivers, James/Nord, Robert/Little, Reed. _Software Architecture Documentation in Practice_,
 Special Report CMU/SEI-2000-SR-004, 2000.
 
+
+##### Banfield-16
+Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
+
 {#ref-bass-2012}
 ##### Bass+2012
 
@@ -128,6 +132,10 @@ IBM Press, 2nd edition, Prentice Hall, 2004.
 If you need to write lots of documentation,
 you should have a look at this book.
 
+
+##### Hathaway-19
+Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
+
 {#ref-hofmeister+2000}
 ##### Hofmeister+2000
 
@@ -153,6 +161,15 @@ Hohpe, G/Woolf, B: _Enterprise Integration Patterns: Designing, Building, and De
 Messaging Solutions_, Addison Wesley, 2003.
 
 A very important book and timeless book for people creating integrated systems.
+
+##### Hruschka-19
+Hruschka, Peter: Business Analysis und Requirements Engineering, Hanser Verlag, 2nd Edition 2019 (in German)
+
+##### ISO-25010
+ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
+
+##### Kazmann ATAM
+Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
 {#ref-kelly+2009}
 ##### Kelly+2009
@@ -198,6 +215,9 @@ Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
 Covering the whole process of software design from a security perspective by
 the means of risk management, code reviews, risk analysis, penetration testing,
 security testing nad abuse case development.
+
+##### North
+North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
 
 
 {#ref-parnas-1972}
@@ -255,6 +275,12 @@ Yulia Cherdantseva, Jeremy Hilton, A Reference Model of Information Assurance & 
 
 Conference Paper of Yulia Cherdantseva and Jeremy Hilton describing the RMIAS.
 
+##### Robertson-12
+Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 3rd edition 2012. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
+
+##### Robertson-19
+Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
+
 
 {#ref-schmidt-2000}
 ##### Schmidt+2000
@@ -291,6 +317,14 @@ _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Stud
 Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
 
 A study guide for the CPSA-Foundation examination.
+
+##### Starke-Hruschka
+Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
+
+##### Toth-19
+Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
+Carl Hanser Verlag, 3rd edition 2019  (in German)
+
 
 ##### Zörner 2015 
 Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015 (in German)
