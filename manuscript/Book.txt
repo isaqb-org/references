@@ -13,5 +13,4 @@
 {backmatter}
 
 appendix/1-about-isaqb.md
-appendix/2-about-the-authors.md
-appendix/3-about-our-cause.md
+ppendix/3-about-our-cause.md
