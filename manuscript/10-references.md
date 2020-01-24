@@ -99,9 +99,17 @@ _Design Patterns: Elements of Reusable Object-Oriented Software,_
 The classic book on design patterns, originally with C++ in mind.
 Several of these patterns can be applied independent of language and technology.
 
+
+##### Gharbi et al 2017
+Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 3. Auflage, dpunkt Verlag, Heidelberg 2017 (in German)
+
 {#ref-gof}
 ##### GoF (Gang of Four)
 See [Gamma+1994](#ref-gamma-1994)
+
+
+##### Goll 2014
+Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java. Springer-Vieweg Verlag, 2. Auflage 2014. (in German)
 
 {#ref-gorton-2011}
 ##### Gorton-2011
@@ -161,6 +169,9 @@ Kruchten, Philippe.
 _The 4+1 View Model of Architecture_,
 IEEE Software, volume 12 (6), pp 45-50, 1995.
 
+##### Lilienthal 2017
+Carola Lilienthal: Langlebige Softwarearchitekuren. 3. Auflage, dpunkt Verlag 2019.
+
 
 {#ref-martin-2003}
 ##### Martin-2003
@@ -169,6 +180,15 @@ Martin, Robert C:
 _Agile Software Development: Principles, Patterns and Practices_,
 Prentice Hall, 2002
 
+
+{#ref-martin-solid}
+##### Martin-SOLID
+Martin, Robert C: S.O.L.I.D.
+
+S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin. Some of the original papers have been moved around onto various locations - see the following:
+
+* [Wikipedia on SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* A nice [Introduction](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by [Samuel Oloruntoba](https://scotch.io/@kayandrae)
 
 {#ref-mcgraw-2006}
 ##### McGraw-2006
@@ -260,6 +280,9 @@ Shaw, Mary/Garlan, David:
 _Software Architecture: Perspectives on an Emerging Discipline_,
 Prentice Hall, 1996
 
+##### Starke-ESA
+Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de (in German)
+
 {#ref-starke-esa-en}
 ##### Starke-2018
 
@@ -268,3 +291,6 @@ _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Stud
 Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
 
 A study guide for the CPSA-Foundation examination.
+
+##### Zörner 2015 
+Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015 (in German)
