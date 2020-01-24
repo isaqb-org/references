@@ -171,6 +171,11 @@ ISO-25010: Standard for Systems and software Quality Requirements and Evaluation
 ##### Kazmann ATAM
 Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
+##### Keeling-2017
+Keeling, Michael: _Design It! From Programmer to Software Architect_, Pragmatic Programmers, 2017.
+
+A fresh look at software architecture with an accompanied architect's toolbox that contains many handy activities.
+
 {#ref-kelly+2009}
 ##### Kelly+2009
 Steven Kelly and Risto Pohjonen: _Worst Practices for Domain-Specific Modeling_
