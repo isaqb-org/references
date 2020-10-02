@@ -109,8 +109,8 @@ The classic book on design patterns, originally with C++ in mind.
 Several of these patterns can be applied independent of language and technology.
 
 
-##### Gharbi et al 2017
-Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 3. Auflage, dpunkt Verlag, Heidelberg 2017 (in German)
+##### Gharbi et al 2020
+Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020 (in German)
 
 {#ref-gof}
 ##### GoF (Gang of Four)
@@ -150,8 +150,7 @@ _Applied Software Architecture,_
 
 {#ref-hofmeister+2007}
 ##### Hofmeister+2007
-Christine Hofmeister, Philippe Kruchten, Robert L. Nord, Henk Obbink, Alexander Ran and Pierre America: _A general model of software architecture design derived
-from five industrial approaches_
+Christine Hofmeister, Philippe Kruchten, Robert L. Nord, Henk Obbink, Alexander Ran and Pierre America: _A general model of software architecture design derived from five industrial approaches_
 
 The Journal of Systems and Software 80 (2007) p. 106–126.
 
@@ -197,7 +196,7 @@ _The 4+1 View Model of Architecture_,
 IEEE Software, volume 12 (6), pp 45-50, 1995.
 
 ##### Lilienthal 2017
-Carola Lilienthal: Langlebige Softwarearchitekuren. 3. Auflage, dpunkt Verlag 2019.
+Carola Lilienthal: _Langlebige Softwarearchitekuren_. 3. Auflage, dpunkt Verlag 2019.
 
 
 {#ref-martin-2003}
@@ -227,7 +226,7 @@ the means of risk management, code reviews, risk analysis, penetration testing,
 security testing nad abuse case development.
 
 ##### North
-North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
+North, Dan: _Introducing Behavior Driven Development_, https://dannorth.net/introducting.bdd
 
 
 {#ref-parnas-1972}
