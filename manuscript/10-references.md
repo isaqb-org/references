@@ -36,6 +36,11 @@ Brown, Simon: _Software Architecture For Developers_,
 [https://leanpub.com/software-architecture-for-developers](https://leanpub.com/software-architecture-for-developers)
 Leanpub Publishing. Very practical and pragmatic.
 
+{#ref-brown-c4}
+##### Brown-C4-Model
+
+Brown, Simon: The C4 model for visualising software architecture. [Online](https://c4model.com) and on
+[infoq](https://www.infoq.com/articles/C4-architecture-model/). The C4 model consists of a hierarchical set of software architecture diagrams for context, containers, components, and code. The C4 diagrams provide different levels of abstraction, each of which is relevant to a different audience.
 
 {#ref-buschmann-1996}
 ##### Buschmann+1996
