@@ -8,6 +8,11 @@ Ross Anderson, Security Engineering - A Guide to Building Dependable Distributed
 
 One of the most comprehensive books about information security available.
 
+{#ref-arc42}
+##### arc42
+arc42 - the Open-Source template for software architecture communication. Online <https://arc42.org>.
+Created by Peter Hruschka and Gernot Starke. Maintained on <https://github.com/arc42>
+
 {#ref-bachmann-2000}
 ##### Bachmann+2000
 Bachmann, Felix/Bass, Len/Carriere, Jeromy/Clements, Paul/Garlan, David/Ivers, James/Nord, Robert/Little, Reed. _Software Architecture Documentation in Practice_,
@@ -89,6 +94,11 @@ Clements, Paul/Bachmann, Felix/Bass, Len/Garlan, David/Ivers, James/Little, Reed
 Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_
 1st edition, Addison-Wesley, 2004.
 
+{#ref-fmc}
+##### FMC
+Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
+
+
 {#ref-ford-2017}
 ##### Ford+2017
 Neil Ford, Rebecca Parson, Patrick Kua:
@@ -139,8 +149,7 @@ Hargis, Gretchen/Carey, Michelle/Hernandez, Ann:
 _Developing Quality Technical Information: A Handbook for Writers and Editors,_
 IBM Press, 2nd edition, Prentice Hall, 2004.
 
-If you need to write lots of documentation,
-you should have a look at this book.
+If you need to write lots of documentation, you should have a look at this book.
 
 
 ##### Hathaway-19
@@ -174,8 +183,13 @@ A very important book and timeless book for people creating integrated systems.
 ##### Hruschka-19
 Hruschka, Peter: Business Analysis und Requirements Engineering, Hanser Verlag, 2nd Edition 2019 (in German)
 
+{#ref-iso-25010}
 ##### ISO-25010
 ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
+
+{#ref-iso-42010}
+##### ISO-42010
+ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: http://www.iso-architecture.org/ieee-1471/
 
 ##### Kazmann ATAM
 Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
