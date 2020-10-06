@@ -51,7 +51,7 @@ by the following volunteers and sponsors:
 
 * Several references had initially been collected by the iSAQB Foundation Level Working Group.
 * A number of definitions in context of system improvement and evolution was contributed by the [aim42](http://aim42.github.io/) open source project.
-* Additional contributions were made by Dr. Alexander Lorz, Dr. Michael Sperber
+* Additional contributions were made by Markus Harrer, Dr. Alexander Lorz, Dr. Michael Sperber
 
 
 ## Contributing
