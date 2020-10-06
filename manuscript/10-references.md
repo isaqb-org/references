@@ -249,16 +249,23 @@ S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principle
 
 {#ref-mcgraw-2006}
 ##### McGraw-2006
-
 Garry McGraw, "Software Security - Building Security In", Addison-Wesley 2006
 
-Covering the whole process of software design from a security perspective by
-the means of risk management, code reviews, risk analysis, penetration testing,
-security testing nad abuse case development.
+Covering the whole process of software design from a security perspective by the means of risk management, code reviews, risk analysis, penetration testing, security testing nad abuse case development.
 
+{#ref-miller}
+##### Miller+
+Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete)
+<https://github.com/heathermiller/dist-prog-book>.
+Technical introduction to distributed computing.
+
+{#ref-north-bdd}
 ##### North
 North, Dan: _Introducing Behavior Driven Development_, https://dannorth.net/introducting.bdd
 
+{#ref-nygard-adr}
+##### Nygard-ADR
+Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 
 {#ref-parnas-1972}
 ##### Parnas-1972
