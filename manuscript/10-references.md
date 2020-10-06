@@ -13,6 +13,10 @@ One of the most comprehensive books about information security available.
 arc42 - the Open-Source template for software architecture communication. Online <https://arc42.org>.
 Created by Peter Hruschka and Gernot Starke. Maintained on <https://github.com/arc42>
 
+{#ref-archimate}
+##### ArchiMate
+The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
+
 {#ref-bachmann-2000}
 ##### Bachmann+2000
 Bachmann, Felix/Bass, Len/Carriere, Jeromy/Clements, Paul/Garlan, David/Ivers, James/Nord, Robert/Little, Reed. _Software Architecture Documentation in Practice_,
@@ -155,9 +159,12 @@ If you need to write lots of documentation, you should have a look at this book.
 ##### Hathaway-19
 Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
 
+D>###### Comment (Gernot Starke)
+D>In my opinion a very pragmatic and highly useful introduction to requirements engineering. Suitable for software architects and development teams.
+
+
 {#ref-hofmeister+2000}
 ##### Hofmeister+2000
-
 Hofmeister, Christine/Nord, Robert/Soni, Dilip:
 _Applied Software Architecture,_
 1st edition, Addison-Wesley, 1999
@@ -356,6 +363,9 @@ Carl Hanser Verlag, 3rd edition 2019  (in German)
 {#ref-uml}
 ##### UML
 The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
+
+##### Yorgey 2012
+Brent A. Yorgey, Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>. Yorgey writes about _Monads_, a pattern well-known within functional programming.
 
 ##### Zörner 2015
 Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015 (in German)

@@ -17,7 +17,7 @@ Several of the references have been commented in the following form:
 
 
 D> ###### Comment (Gernot Starke)
-D> In comments like this, one or several of the authors have given their personal opinion about books or articles. These comments might help you select stuff you want to read or skip. 
+D> In comments like this, one or several of the authors have given their personal opinion about books or articles. These comments might help you select stuff you want to read or skip.
 D>
 
 
@@ -26,8 +26,7 @@ D>
 {float=inside,width=25%}
 ![](images/cc-by.png)
 
-This book is licensed under a
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This book is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 The following is only a brief summary and no substitution for the real license.
 
 The cc-4.0-by license means that you might:
@@ -51,8 +50,8 @@ Several parts of this glossary have been contributed
 by the following volunteers and sponsors:
 
 * Several references had initially been collected by the iSAQB Foundation Level Working Group.
-* A number of definitions in context of system improvement and evolution
-was contributed by the [aim42](http://aim42.github.io/) open source project.
+* A number of definitions in context of system improvement and evolution was contributed by the [aim42](http://aim42.github.io/) open source project.
+* Additional contributions were made by Dr. Alexander Lorz, Dr. Michael Sperber
 
 
 ## Contributing
@@ -63,8 +62,8 @@ A>
 A>In case find errors, omissions or typos, or want to contribute additional content -
 A>please feel free to do this via one of the following ways:
 A>
-A>1. Open an issue in our [Github repository](https://github.com/isaqb-org/rferences/issues)
-A>2. Fork the repository and create a pull request.
+A>1. Excellent: Open an issue in our [Github repository](https://github.com/isaqb-org/rferences/issues)
+A>2. Optimal: Fork the repository and create a pull request.
 
 
 Your input is highly appreciated by the authors.
