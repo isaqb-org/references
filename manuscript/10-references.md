@@ -339,7 +339,6 @@ Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in G
 
 {#ref-starke-esa-en}
 ##### Starke-2018
-
 Starke, Gernot:
 _Effective Software Architectures: iSAQB CPSA-Foundation©️ Certification Study Guide_
 Leanpub, 2018. Available online [https://leanpub.com/esa42](https://leanpub.com/esa42).
@@ -349,10 +348,14 @@ A study guide for the CPSA-Foundation examination.
 ##### Starke-Hruschka
 Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
+{#ref-toth}
 ##### Toth-19
 Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
 Carl Hanser Verlag, 3rd edition 2019  (in German)
 
+{#ref-uml}
+##### UML
+The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 
 ##### Zörner 2015
 Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015 (in German)
