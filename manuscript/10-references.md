@@ -169,6 +169,9 @@ Hofmeister, Christine/Nord, Robert/Soni, Dilip:
 _Applied Software Architecture,_
 1st edition, Addison-Wesley, 1999
 
+D>###### Comment (Gernot Starke)
+D>Describes the _Global Analysis_ method of having clearly defines (quality) requirements as foundation for architecture decisions. In my opinion, their terminology is sometimes a bit strange, but their ideas are highly practical and convincing. Worked for me numerous times in practice! 
+
 {#ref-hofmeister+2007}
 ##### Hofmeister+2007
 Christine Hofmeister, Philippe Kruchten, Robert L. Nord, Henk Obbink, Alexander Ran and Pierre America: _A general model of software architecture design derived from five industrial approaches_
