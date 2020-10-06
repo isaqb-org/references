@@ -102,6 +102,8 @@ Evans, Eric: _Domain-Driven Design: Tackling Complexity in the Heart of Software
 ##### FMC
 Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 
+D>###### Comment (Gernot Starke)
+D>FMC is relatively old and not widely used in practice - but: It has been taken up by the German software-giant SAP as one of their modeling-standards. It has gotten some public attendence as FMC has been used in the documentation of the (open source) German COVID-19 app - see <https://github.com/corona-warn-app>. 
 
 {#ref-ford-2017}
 ##### Ford+2017
